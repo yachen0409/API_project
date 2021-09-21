@@ -1,6 +1,5 @@
 # API_project
-###### tags: `NCTU` `109-1` `Introduction to Programming` `API` `Web Crawler`
-> [name=Yu-An, CHEN][color=blue]
+###### tags: `NCTU` `109-1` `Introduction to Programming` `API` `Web Crawler`  
 
 * Project Description:  
 The project aims to help students in NCTU who live in Taipei backing home by bus. With many companies running bus services between Hsinchu and Taipei, students usually cannot decide which bus should they take. With the project, I hope to provide a one-stop service that can not only check ticket types and fares, but also estimate the time for users to get from the dormitory to the bus stop, whether by riding a bicycle or walking. 
