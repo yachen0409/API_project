@@ -5,7 +5,7 @@
 * The following list the courses corresponding to each folder:
     * [API_Project](https://github.com/yachen0409/NCTU_project/tree/master/API_Project) -- Introduction to Computer Programming
     * [Dungeon](https://github.com/yachen0409/NCTU_project/tree/master/Dungeon) -- Data Structures and Object-oriented Programming
-:::success
+
 :tada: **Happy Reading** :tada:
-:::
+
 
