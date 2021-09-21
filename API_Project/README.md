@@ -1,4 +1,7 @@
 # API_project
+
+[![hackmd-github-sync-badge](https://hackmd.io/HYAfsbiARf-u3WX7vna5EQ/badge)](https://hackmd.io/HYAfsbiARf-u3WX7vna5EQ)
+
 ###### tags: `NCTU` `109-1` `Introduction to Programming` `API` `Web Crawler`  
 
 * Project Description:  
